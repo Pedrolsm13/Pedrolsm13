@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Pedrolsm13/Pedrolsm13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pedrolsm13/Pedrolsm13**
 
-Here are some ideas to get you started:
+My name is Pedro, and these are some things about me:
 
 - 🔭 I’m currently working with accounting
 - 🌱 I’m currently learning C#, Javascript, SQL
